@@ -22,6 +22,46 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
+## NOTES FOR DEVELOPERS
+
+````bash
+
+To run PostgreSQL on Docker, run the following in your Terminal:
+
+docker run --name postgres-nest -p 5432:5432 -e POSTGRES_PASSWORD=postgres -d postgres
+
+Pipes-NestJS-Documentation-
+https://docs.nestjs.com/pipes
+
+class-validator-GitHub-
+https://github.com/typestack/class-validator
+
+Running-PostgreSQL-via-Docker-Terminal-Command
+https://gist.github.com/arielweinberger/a6ccf45fb7501fd1bd15bd5632ea9056
+
+TypeORM-Active-Record-VS-Data-Mapper
+https://github.com/typeorm/typeorm/blob/master/docs/active-record-data-mapper.md
+
+TypeORM-Repository-API
+https://typeorm.io/#/repository-api
+
+Regular-Expression-Gist-GitHub-
+https://gist.github.com/arielweinberger/18a29bfa17072444d45adaeeb8e92ddc
+
+Regular-expression-Wikipedia-
+https://en.wikipedia.org/wiki/Regular_expression
+
+jwt.io
+https://jwt.io
+
+TransformInterceptor-Gist
+https://gist.github.com/arielweinberger/f5c02406b48bb0e145e8542c7006649f
+
+Logging-NestJS-Documentation-
+https://docs.nestjs.com/techniques/logger```
+
+````
+
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
