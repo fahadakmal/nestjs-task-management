@@ -100,7 +100,6 @@ $ npm run test:cov
 
 ## Screenshots for beeter understanding
 
-```bash
 <img width="1180" alt="Screenshot 2022-06-25 at 5 53 31 PM" src="https://user-images.githubusercontent.com/43066831/176103513-5b532293-b4fb-476a-8181-6f78e56a19e3.png">
 <img width="1206" alt="Screenshot 2022-06-25 at 5 14 40 PM" src="https://user-images.githubusercontent.com/43066831/176103535-7c007980-e3f8-4886-8f25-195a83a3d3ae.png">
 <img width="1183" alt="Screenshot 2022-06-25 at 5 33 59 PM" src="https://user-images.githubusercontent.com/43066831/176103540-cf9b8d07-b5e8-4baf-b3f1-8cb05ef66ca8.png">
@@ -119,7 +118,6 @@ $ npm run test:cov
 <img width="1211" alt="Screenshot 2022-06-26 at 12 00 48 AM" src="https://user-images.githubusercontent.com/43066831/176103597-518e39a6-87ba-4ee6-ae12-19dfd5018d67.png">
 <img width="1198" alt="Screenshot 2022-06-26 at 12 04 59 AM" src="https://user-images.githubusercontent.com/43066831/176103604-b89f121c-4952-4ae5-b037-163a1ff5b2bf.png">
 <img width="1206" alt="Screenshot 2022-06-28 at 12 46 11 AM" src="https://user-images.githubusercontent.com/43066831/176103608-177bed9c-b356-4bde-90b1-da10115b2fba.png">
-```
 
 ## Support
 
